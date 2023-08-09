@@ -1,6 +1,7 @@
 # DESEC-Python
 
 Bem-vindo ao Meu Diretório de Programas Python para Pentest 🐍
+
 Este diretório foi criado para armazenar e organizar os scripts desenvolvidos como parte do curso de Pentest da DESEC. Aqui você encontrará uma variedade de projetos e exercícios que ajudarão a solidificar seus conhecimentos em programação Python, especificamente voltados para testes de penetração.
 
 Sobre o Curso de Pentest da Desec
@@ -15,6 +16,7 @@ Explore o mundo empolgante dos testes de penetração utilizando a programação
 
 Vamos explorar e fortalecer nossas habilidades de pentest juntos! 🚀👨‍💻👩‍💻
 
+Welcome to My Python Programs Directory for Pentesting 🐍
 
 This directory has been created to store and organize the scripts developed as part of the Pentesting course offered by DESEC. Here, you'll find an array of projects and exercises that will help solidify your knowledge of Python programming, specifically tailored for penetration testing.
 
